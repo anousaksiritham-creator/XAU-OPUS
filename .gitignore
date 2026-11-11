@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
+.claude/skills/xau-opus/scripts/s.png
+.claude/skills/xau-opus/scripts/watch_*.pid
+.DS_Store
+Thumbs.db

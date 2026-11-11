@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+scripts/s.png
+.DS_Store
+Thumbs.db
+watch_*.pid
